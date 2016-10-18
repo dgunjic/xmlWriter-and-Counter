@@ -1,0 +1,10 @@
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DiDiDiL\documents\visual studio 2015\Projects\Counter2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resource1.resources
